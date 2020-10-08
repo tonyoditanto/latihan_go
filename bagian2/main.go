@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/tonyoditanto/latihan_go/bagian2/package_1"
-
 	"github.com/tonyoditanto/latihan_go/bagian2/package_2"
 )
 
