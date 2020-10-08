@@ -3,7 +3,7 @@ package package_2
 import (
 	"fmt"
 
-	"github.com/tonyoditanto/latihan_go/bagian2/package_1"
+	"github.com/tonyoditanto/latihan_go/bagian2_1/package_1"
 )
 
 func PrintPackage2() {
